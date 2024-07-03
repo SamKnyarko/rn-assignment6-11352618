@@ -17,12 +17,13 @@ This is a simple Shopping Cart application built with React Native. It allows us
 - React Native CLI
 - Xcode (for iOS development)
 - Android Studio (for Android development)
+- Expo go
 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/shopping-cart-app.git
-   cd shopping-cart-app
+   git clone https://github.com/SamKnyarko/rn-assignment6-11352618.git
+   cd myapp
    ```
 
 2. Install dependencies:
@@ -34,7 +35,7 @@ This is a simple Shopping Cart application built with React Native. It allows us
 
 3. Start the Metro bundler:
    ```sh
-   npx react-native start
+   npx expo start
    ```
 
 4. Run the app on your emulator or device:
@@ -42,6 +43,8 @@ This is a simple Shopping Cart application built with React Native. It allows us
    npx react-native run-ios
    # or
    npx react-native run-android
+   # or
+   Take a picture of your qr code on your IDE
    ```
 
 
