@@ -52,9 +52,11 @@ This is a simple Shopping Cart application built with React Native. It allows us
 ## Screenshot Of Screens
 
 ### HomeScreen
+![Screenshot_2024-07-02-17-21-15-225_host exp exponent](https://github.com/SamKnyarko/rn-assignment6-11352618/assets/151433019/86440bd2-6d84-4187-a4f2-ba08140a4d9b)
 
 
 ### CartScreen
+![Screenshot_2024-07-02-18-15-40-326_host exp exponent](https://github.com/SamKnyarko/rn-assignment6-11352618/assets/151433019/68188163-e684-4802-b68b-6e533888eeee)
 
 
 ## Styles
